@@ -2,7 +2,7 @@
 A curated list of image processing related resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 ## Table of Contents
- - [High Dynamic Range Imaging]()
+ - [High Dynamic Range Imaging](https://github.com/hsiaoyi0504/ImageProcessingTechniques/blob/master/highDynamicRangeImaging.md)
 
 
 
