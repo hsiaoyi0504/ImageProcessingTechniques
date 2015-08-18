@@ -3,7 +3,7 @@ A curated list of image processing related resources, inspired by [awesome-compu
 
 ## Table of Contents
  - [High Dynamic Range Imaging](https://github.com/hsiaoyi0504/ImageProcessingTechniques/blob/master/highDynamicRangeImaging.md)
-
+ - [Video Coding]()
 
 
 ## Licenses
