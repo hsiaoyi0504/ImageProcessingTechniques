@@ -19,7 +19,7 @@
 
 ## Papers
 
-### HDR image reconstruction
+### HDR Image Reconstruction
 - Debevec, Paul E., and Jitendra Malik. "Recovering high dynamic range radiance maps from photographs." Proceedings of the 24th annual conference on Computer graphics and interactive techniques. ACM Press/Addison-Wesley Publishing Co., 1997.
 	+ The basic but effective method for HDR image reconstruction, this paper motivates many works about HDR imaging
 	+ Matrix form solution(including least square term and smoothness term)
@@ -33,12 +33,12 @@
 	+ Single image HDR scheme
 	+ Based on the edge color distribution
 
-### Space of the camera response function
+### Space of The Camera Response Function
 
-### Tone mapping
+### Tone Mapping
 
 
-### Image alignment and registration
+### Image Alignment and Registration
 - Ward, Greg. "Fast, robust image registration for compositing high dynamic range photographs from hand-held exposures." Journal of graphics tools 8.2 (2003): 17-30.
 	+ Median threshold bitmap (MTB) for global alignment
 	+ Very efficient (due to based on bitwise operation)
@@ -47,14 +47,14 @@
 	+ A variant of LK optical flow
 	+ A strategy to obtain HDR video
 
-### Ghost effect removal
+### Ghost Effect Removal
 
 ### Alternative to HDR imaging
 - Exposure Fusion
 	+ Two series of paper
 		+ Mertens, Tom, Jan Kautz, and Frank Van Reeth. "Exposure fusion." Computer Graphics and Applications, 2007. PG'07. 15th Pacific Conference on. IEEE, 2007.
 		+ Mertens, Tom, Jan Kautz, and Frank Van Reeth. "Exposure fusion: A simple and practical alternative to high dynamic range photography." Computer Graphics Forum. Vol. 28. No. 1. Blackwell Publishing Ltd, 2009.
-			+ Scalar-weighted map is first generated based on the quality measurement (contrast, saturation, well-exposedness) of the exposure bracketed image, then the fusion is performed in the multiresolution manner (Gaussian pyramids of the weighted map and Laplacian pyramids of the original image)
+			+ Scalar-weighted map is first generated based on the quality measurement (contrast, saturation, well-exposedness) of the exposure bracketed image, then the fusion is performed in the multiresolution manner (Each layer of the Laplacian pyramid of resulting image is computed by the pixel-based multiplication if Gaussian pyramids of the weighted map with Laplacian pyramids of the original image)
 
 ## Software
 - [HDR_Toolbox](https://github.com/banterle/HDR_Toolbox)
@@ -75,7 +75,6 @@
 ## Links
 
 ## Licenses
-License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
