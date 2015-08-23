@@ -57,12 +57,18 @@
 			+ Scalar-weighted map is first generated based on the quality measurement (contrast, saturation, well-exposedness) of the exposure bracketed image, then the fusion is performed in the multiresolution manner (Each layer of the Laplacian pyramid of resulting image is computed by the pixel-based multiplication if Gaussian pyramids of the weighted map with Laplacian pyramids of the original image)
 
 ## Software
+### HDR imaging
 - [HDR_Toolbox](https://github.com/banterle/HDR_Toolbox)
 	+ HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave
 	+ The most complete HDR imaging related tool for research
 - [OpenCV](http://opencv.org/)
 	+ Popular software for image processing
 	+ Have HDR imaging module
+
+### Exposure Fusion
+- [Link]()
+	+ Original implementation of exposure fusion provided by the paper author Tom Mertens
+
 
 ## Datasets
 - [Empa HDR Image Database](http://www.empamedia.ethz.ch/hdrdatabase/index.php)
