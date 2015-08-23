@@ -66,7 +66,7 @@
 	+ Have HDR imaging module
 
 ### Exposure Fusion
-- [Link]()
+- [Link](https://c410936b5c3423ef05b9736a53d1232d790835e9.googledrive.com/host/0B0OtIBtMkXFQfk1mdzhucENXQTh2UHFqa3E3S0tNOWZub0xiZWpGdVQtY3NhdVR0Q2FyXzg/exposure_fusion/exposure_fusion.zip)
 	+ Original implementation of exposure fusion provided by the paper author Tom Mertens
 
 
