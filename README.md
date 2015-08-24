@@ -2,9 +2,10 @@
 A curated list of image processing related resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 ## Table of Contents
- - [Image Format]()
- - [Video Coding]()
+ - [Image Format](https://github.com/hsiaoyi0504/ImageProcessingTechniques/blob/master/imageFormat.md)
+ - [Video Coding](https://github.com/hsiaoyi0504/ImageProcessingTechniques/blob/master/videoCoding.md)
  - [High Dynamic Range Imaging](https://github.com/hsiaoyi0504/ImageProcessingTechniques/blob/master/highDynamicRangeImaging.md)
+ - [Colorization]()
  
 
 

@@ -15,7 +15,6 @@
 
 ## Papers
 
-###
 
 ## Software
 
