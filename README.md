@@ -11,8 +11,9 @@ A curated list of image processing related resources, inspired by [awesome-compu
 ### Guided Filter
 #### Software
  - [Guided Filter](http://research.microsoft.com/en-us/um/people/kahe/eccv10/guided-filter-code-v1.rar)
+ 	+ original implementation of the guided filter by the paper author
  - [Fast Guided Filter](http://research.microsoft.com/en-us/um/people/kahe/eccv10/fast-guided-filter-code-v1.rar)
- 	+ original implementation of the guided filter and fast guided filter
+ 	+ original implementation of the fast guided filter by the paper author
 
 ## Licenses
 
