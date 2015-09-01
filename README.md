@@ -8,6 +8,11 @@ A curated list of image processing related resources, inspired by [awesome-compu
  - [Colorization](https://github.com/hsiaoyi0504/ImageProcessingTechniques/blob/master/colorization.md)
  
 ## General Purpose Techniques
+### Color
+#### Books
+ - [Stone, Maureen. A field guide to digital color. CRC Press, 2013.](https://books.google.com.tw/books?hl=zh-TW&lr=&id=02TOBQAAQBAJ&oi=fnd&pg=PP1&ots=t0Rm0mAccW&sig=rOTxqL6HaIZzwmUnCba4KJBJ0ZA&redir_esc=y#v=onepage&q&f=false)
+ 	+ A comprehensive introduction to color
+
 ### Guided Filter
 #### Software
  - [Guided Filter](http://research.microsoft.com/en-us/um/people/kahe/eccv10/guided-filter-code-v1.rar)
