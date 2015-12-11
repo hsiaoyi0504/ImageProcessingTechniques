@@ -6,7 +6,10 @@ A curated list of image processing related resources, inspired by [awesome-compu
  - [Video Coding](https://github.com/hsiaoyi0504/ImageProcessingTechniques/blob/master/videoCoding.md)
  - [High Dynamic Range Imaging](https://github.com/hsiaoyi0504/ImageProcessingTechniques/blob/master/highDynamicRangeImaging.md)
  - [Colorization](https://github.com/hsiaoyi0504/ImageProcessingTechniques/blob/master/colorization.md)
- 
+ - [Image Dehazing]()
+ - [Imgae DeBlurring]()
+ - [Image Sharpeniing]()
+
 ## General Purpose Techniques
 ### Color
 #### Books
