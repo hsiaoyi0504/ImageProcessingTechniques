@@ -3,3 +3,19 @@
  - Wang, Gangyi, et al. "Single Image Dehazing Algorithm Based on Sky Region Segmentation." Information Technology Journal 12.6 (2013): 1168-1175.
  - Kim, Jin-Hwan, et al. "Optimized contrast enhancement for real-time image and video dehazing." Journal of Visual Communication and Image Representation 24.3 (2013): 410-425.
  - Fusion based
+ - Dehazing using color line
+ - Schechner, Yoav Y., Srinivasa G. Narasimhan, and Shree K. Nayar. "Instant dehazing of images using polarization." Computer Vision and Pattern Recognition, 2001. CVPR 2001. Proceedings of the 2001 IEEE Computer Society Conference on. Vol. 1. IEEE, 2001.
+APA 
+ - Narasimhan, Srinivasa G., and Shree K. Nayar. "Contrast restoration of weather degraded images." Pattern Analysis and Machine Intelligence, IEEE Transactions on 25.6 (2003): 713-724.
+ - Kopf, Johannes, et al. "Deep photo: Model-based photograph enhancement and viewing." ACM Transactions on Graphics (TOG). Vol. 27. No. 5. ACM, 2008.
+ - Narasimhan, Srinivasa G., and Shree K. Nayar. "Interactive (de) weathering of an image using physical models." IEEE Workshop on Color and Photometric Methods in Computer Vision. Vol. 6. No. 6.4. France, 2003.
+ - Tan, Robby T. "Visibility in bad weather from a single image." Computer Vision and Pattern Recognition, 2008. CVPR 2008. IEEE Conference on. IEEE, 2008.
+ - Tarel, Jean-Philippe, and Nicolas Hautiere. "Fast visibility restoration from a single color or gray level image." Computer Vision, 2009 IEEE 12th International Conference on. IEEE, 2009.
+ - Fattal, Raanan. "Single image dehazing." ACM Transactions on Graphics (TOG). Vol. 27. No. 3. ACM, 2008.
+ - Nishino, Ko, Louis Kratz, and Stephen Lombardi. "Bayesian defogging." International journal of computer vision 98.3 (2012): 263-278.
+ - Duntley, Seibert Q. "Light in the sea." JOSA 53.2 (1963): 214-233.
+ - Chiang, John Y., and Ying-Ching Chen. "Underwater image enhancement by wavelength compensation and dehazing." Image Processing, IEEE Transactions on 21.4 (2012): 1756-1769.
+ - Kratz, Louis, and Ko Nishino. "Factorizing scene albedo and depth from a single foggy image." Computer Vision, 2009 IEEE 12th International Conference on. IEEE, 2009.
+ - Yitzhaky, Yitzhak, Itai Dror, and Norman S. Kopeika. "Restoration of atmospherically blurred images according to weather-predicted atmospheric modulation transfer functions." Optical Engineering 36.11 (1997): 3064-3072.
+ - Gibson, Kristofor B., and Truong Q. Nguyen. "Hazy image modeling using color ellipsoids." Image Processing (ICIP), 2011 18th IEEE International Conference on. IEEE, 2011.
+ - Omer, Ido, and Michael Werman. "Color lines: Image specific color representation." Computer Vision and Pattern Recognition, 2004. CVPR 2004. Proceedings of the 2004 IEEE Computer Society Conference on. Vol. 2. IEEE, 2004.
